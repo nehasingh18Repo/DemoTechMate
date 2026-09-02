@@ -1,0 +1,91 @@
+{
+    "userId": 101,
+    "userName": "Alex Watson",
+    "features":
+[
+  {
+    "featureName": "TIMESHEET",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "JOB_DASHBOARD",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "CIRCUIT_VIEW",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "MY_INVENTORY",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "HOTREADS",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "MAP",
+    "enabledFlag": false
+  },
+  {
+    "featureName": "filterJobs",
+    "enabledFlag": false
+  },
+  {
+    "featureName": "altJob",
+    "enabledFlag": false
+  },
+  {
+    "featureName": "selfAssign",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "refresh",
+    "enabledFlag": false
+  },
+  {
+    "featureName": "search",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobNotes",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobCv",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobDetails",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobStatus",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobCDD",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobTruckInventory",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobPhone",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobLoction",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "dashboardTab",
+    "enabledFlag": true
+  },
+  {
+    "featureName": "jobsTab",
+    "enabledFlag": true
+  }
+]
+}
